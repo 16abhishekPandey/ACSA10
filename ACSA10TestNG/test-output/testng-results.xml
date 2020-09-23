@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+    <line>
+      <![CDATA[from carrot]]>
+    </line>
+    <line>
+      <![CDATA[from carrot]]>
+    </line>
+    <line>
+      <![CDATA[from carrot]]>
+    </line>
+    <line>
+      <![CDATA[from carrot]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+      <class name="testng.P9">
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="3" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="16" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="basket()[pri:0, instance:testng.P9@fc185]" name="basket" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basket -->
+        <test-method status="PASS" signature="apple()[pri:0, instance:testng.P9@fc185]" name="apple" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="carrot()[pri:0, instance:testng.P9@fc185]" name="carrot" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[from carrot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- carrot -->
+        <test-method status="PASS" signature="carrot()[pri:0, instance:testng.P9@fc185]" name="carrot" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[from carrot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- carrot -->
+        <test-method status="PASS" signature="basket()[pri:0, instance:testng.P9@fc185]" name="basket" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basket -->
+        <test-method status="PASS" signature="carrot()[pri:0, instance:testng.P9@fc185]" name="carrot" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[from carrot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- carrot -->
+        <test-method status="PASS" signature="carrot()[pri:0, instance:testng.P9@fc185]" name="carrot" duration-ms="0" started-at="2020-09-15T07:35:40Z" finished-at="2020-09-15T07:35:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[from carrot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- carrot -->
+      </class> <!-- testng.P9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
